@@ -11,4 +11,5 @@ stashed_variable = 1
 # branched feature3 and updated origin/main
 feature_variable = 2
 
+second_attempt_via_gui = 2
 # another main update to mess up local feature state
