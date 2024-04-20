@@ -4,3 +4,6 @@ main_variable = 8
 main_variable = 9
 branch_variable = 1
 
+# updated main after creating the second branch
+# checking whether stash will only stash my changes or all file changes
+stashed_variable = 1
