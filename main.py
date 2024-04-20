@@ -9,3 +9,4 @@ branch_variable = 1
 stashed_variable = 1
 
 # branched feature3 and updated origin/main
+feature_variable = 2
