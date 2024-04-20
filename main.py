@@ -10,3 +10,5 @@ stashed_variable = 1
 
 # branched feature3 and updated origin/main
 feature_variable = 2
+
+# another main update to mess up local feature state
